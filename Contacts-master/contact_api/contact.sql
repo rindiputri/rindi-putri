@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 5.2.0
+-- version 5.1.1
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jan 14, 2023 at 10:44 AM
--- Server version: 10.4.25-MariaDB
--- PHP Version: 7.4.30
+-- Generation Time: Jan 16, 2023 at 12:09 PM
+-- Server version: 10.4.22-MariaDB
+-- PHP Version: 7.3.33
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -40,7 +40,7 @@ CREATE TABLE `contact` (
 --
 
 INSERT INTO `contact` (`id`, `name`, `email`, `phone`, `img`) VALUES
-(10, 'Dicky Mulia Fiqri', 'emailnyadickymuliafiqri@gmail.com', '085159946600', '');
+(10, 'Rindi putri aulia', 'rindiputri202@gmail.com', '089680947820', '');
 
 --
 -- Indexes for dumped tables
